@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+body{
+  background-color: #141414;
+  @apply min-h-screen;
+}
